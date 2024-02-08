@@ -1,4 +1,13 @@
 #Shoppee Page
+<h2>Product can search</h2>
+<li>iPhone 9</li>
+<li>iPhone X</li>
+<li>Samsung Universe 9</li>
+<li>OPPOF19</li>
+<li>Huawei P30</li>
+<li>MacBook Pro</li>
+<li>Samsung Galaxy Book</li>
+
 ## Project setup
 ```
 npm install
